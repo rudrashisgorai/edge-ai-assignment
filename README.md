@@ -57,5 +57,5 @@ The best pruned model was further quantized to 8-bit precision, reaching an accu
 
 1. **Clone the Repository:**
  ```bash
- git clone https://github.com/yourusername/edge-ai-assignment.git
+ git clone https://github.com/rudrashisgorai/edge-ai-assignment.git
  cd edge-ai-assignment
